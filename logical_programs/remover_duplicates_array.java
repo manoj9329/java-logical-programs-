@@ -1,3 +1,4 @@
+package logical_programs;
 // to remove an duplicate element from an array
 import java.util.Arrays;
 import java.util.LinkedHashSet;

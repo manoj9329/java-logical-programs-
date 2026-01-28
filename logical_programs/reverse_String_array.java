@@ -1,3 +1,4 @@
+package logical_programs;
 public class reverse_String_array {
     public void reverse_String(char[] s){
         int i = 0;
